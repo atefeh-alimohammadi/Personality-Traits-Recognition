@@ -1,0 +1,6 @@
+trait,true_value,predicted_value,error
+Openness,0.36448598,0.3586,0.005843401
+Conscientiousness,0.48958334,0.498,0.008463532
+Extraversion,0.5714286,0.5605,0.010881722
+Agreeableness,0.6213592,0.6187,0.0027068853
+Neuroticism,0.45555556,0.5693,0.11378038
