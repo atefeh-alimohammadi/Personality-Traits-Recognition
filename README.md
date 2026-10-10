@@ -239,17 +239,17 @@ Most components—including model implementation, data handling, and experiments
 
 **Atefeh Alimohammadi**
 
-* Co-developed the model architecture and fine-tuning pipeline
-* Implemented and adapted parts of the training/validation/testing engine
-* Helped integrate visual frames and landmark inputs
-* Collaborated on interpreting results and writing the thesis report
+- Collaboratively adapted an existing video-based emotion recognition model architecture for personality recognition using a dedicated dataset.
+- Jointly developed and refined the model architecture, data and training pipelines, and experimental framework.
+- Collaboratively conducted experiments, evaluated model performance, compared different configurations, and analyzed results.
+- Jointly contributed to implementation, debugging, methodological decisions, and writing and revising the thesis.
 
 **Faezeh Salehi**
 
-* Co-developed the data pipeline and model components
-* Contributed to debugging and experiment setup
-* Assisted with preprocessing integration and evaluation scripts
-* Contributed to experiments, analysis, and documentation
+- Collaboratively adapted an existing video-based emotion recognition model architecture for personality recognition using a dedicated dataset.
+- Jointly developed and refined the model architecture, data and training pipelines, and experimental framework.
+- Collaboratively conducted experiments, evaluated model performance, compared different configurations, and analyzed results.
+- Jointly contributed to implementation, debugging, methodological decisions, and writing and revising the thesis.
 
 
 ---
